@@ -1,0 +1,15 @@
+body {
+	font-size: 48px;
+	color: #0000ff;
+	text-align: center;
+	background-color: rgba(216, 191, 216, .4);
+	padding: 0;
+	padding-top: 100px;
+}
+body form {
+	font-size: 30px;
+	color: #E030E5;
+}
+body form input {
+	background-color: #E5DC30;
+}
